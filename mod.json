@@ -5,7 +5,7 @@
   "ModVersion": "1.20.08",
   "GameVersion": "1.11+",
   "ThumbnailPath": "sprites/shit.png",
-  "EntryPoint": "walter.walter",
+  "EntryPoint": "Shit.Shit",
   "Tags": [
     "Fun",
     "Realistic"
