@@ -1,12 +1,12 @@
-    using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 using UnityEngine.Events;
 
-namespace walter
+namespace Shit
 {
-        public class walter
+        public class Shit
     {
 
         public static void Main()
