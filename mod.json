@@ -1,0 +1,20 @@
+{
+  "Name": "Shitass",
+  "Author": "Your Local Home Invader",
+  "Description": "Oh No",
+  "ModVersion": "1.20.08",
+  "GameVersion": "1.11+",
+  "ThumbnailPath": "sprites/shit.png",
+  "EntryPoint": "walter.walter",
+  "Tags": [
+    "Fun",
+    "Realistic"
+  ],
+  "Scripts": [
+    "main.cs",
+    "scripts/CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": "",
+  "CreatorUGCIdentity": "2360707020"
+}
